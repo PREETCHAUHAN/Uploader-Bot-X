@@ -42,7 +42,7 @@
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": ""
+      "value": "-1002062729081"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
