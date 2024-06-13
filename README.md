@@ -3,7 +3,7 @@
 <a href="https://github.com/PREETCHAUHAN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=FF0000&random=false&width=500&height=55&lines=GIVE+ME+A+STAR" alt="Typing SVG" /></a>
 #
 
-[![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://t.me/UploaderX1Bot)
+[![logo](https://assetsio.gnwcdn.com/cyberpunk-2077-johnny_uOYm2tf.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp)](https://t.me/UploaderX1Bot)
 #
 
 ### BUY ME A COFFEE 🥹
