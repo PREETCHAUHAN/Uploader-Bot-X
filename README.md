@@ -6,6 +6,20 @@
 ### BUY ME A COFFEE 🥹
 <a href="https://www.buymeacoffee.com/djpreet3215" target="_blank"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVsNTF6aHVpN3hqbmxzMHJ6dmozMDlob3h5N3EwYnRiMjNuNHU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Buy Me A Coffee" style="height: 8 !important;width: 8 !important;" ></a>
 
+## How To Deploy Heroku
+
+<b><details><summary>Tap On Me For Deploy</summary>
+
+#
+
+  ㅤ ㅤ   ㅤ <a href="https://github.com/PREETCHAUHAN/Uploader-Bot-X/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+
+#
+  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPREETCHAUHAN%2FUploader-Bot-X"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+
+</b>
+</details>
+
 ### How To Create YouTube Video
 
 <b><details><summary>Tap To watch</summary>
