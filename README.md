@@ -1,14 +1,14 @@
 ## URL Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ 🚀
 
 
-[![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://telegram.dog/UploadLinkToFileBot)
+[![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://t.me/UploaderX1Bot)
 
 #
-<a href="https://github.com/LISA-KOREA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=063EFF&random=false&width=750&lines=WELCOME+TO+URL+UPLOADER+BOT+V4+%F0%9F%9A%80;MADE+BY+%40NT_BOT_CHANNEL+;FOLLOW+ME+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://github.com/PREETCHAUHAN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=063EFF&random=false&width=750&lines=WELCOME+TO+URL+UPLOADER+BOT+X+%F0%9F%9A%80;MADE+BY+%40PREETMODZ CORPORATION+;FOLLOW+ME+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 #
 
 #
-<a href="https://github.com/LISA-KOREA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=FF0000&random=false&width=500&height=55&lines=GIVE+ME+A+STAR" alt="Typing SVG" /></a>
+<a href="https://github.com/PREETCHAUHAN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=FF0000&random=false&width=500&height=55&lines=GIVE+ME+A+STAR" alt="Typing SVG" /></a>
 #
 
 ### BUY ME A COFFEE 🥹
