@@ -46,7 +46,7 @@ invite - Invite Your Friends 🫂
 * `DATABASE_URL` Get It From MongoDB Web
 Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=shared)
 
-* `OWNER_ID` Your telegram I'd use this bot [@UploadLinkToFileBot](https://t.me/JsonDumpBot) and use `/info`
+* `OWNER_ID` Your telegram I'd use this bot [@JsonDumpBot](https://t.me/JsonDumpBot) and use `/info`
 
 * `LOG_CHANNEL` Create a Private Channel and Send Any Message To That Channel and Forward to [@MissRose_bot](https://t.me/MissRose_bot) to Get Channel Id
 
