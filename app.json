@@ -37,11 +37,11 @@
       "value": ""
     },
     "LOG_CHANNEL": {
-      "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
+      "description": "Your Any Own Private Super Group ID Where Your Bot As Admin With Full Permission",
       "value": ""
     },
     "UPDATES_CHANNEL": {
-      "description": "For Force Subscribe. Paste your Update channel ID",
+      "description": "For Force Subscribe. Paste your Update channel ID With Add Members Permission",
       "value": "-1002062729081"
     },
     "OWNER_ID": {
