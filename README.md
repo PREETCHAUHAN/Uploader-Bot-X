@@ -59,11 +59,11 @@ Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=
 
 <b><details><summary>Tap On See My Community Details</summary>
 
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader Bot 🚀](https://t.me/UploadLinkToFileBot)
-- My Tg Id : [Lisa 👑](https://t.me/LISA_FAN_LK)
+- YouTube Channel : [DJ JUNCTION](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA/featured?sub_confirmation=1)
+- Telegram Channel : [My Bots ❤️‍🩹](https://t.me/PreetModzNetworkz/66)
+- Telegram Group : [My Bots Support 🎗️](https://t.me/MrBot02)
+- My Tg Id : [☘️DJや๖ۣۜℜEET](https://t.me/djpreetxbot)
+- Credit : [Lisa 👑](https://t.me/LISA_FAN_LK)
 
 </b>
 </details>
