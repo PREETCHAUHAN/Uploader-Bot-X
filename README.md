@@ -3,6 +3,9 @@
 
 [![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://telegram.dog/UploadLinkToFileBot)
 
+#
+<a href="https://github.com/LISA-KOREA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=FF0000&random=false&width=500&height=55&lines=GIVE+ME+A+STAR" alt="Typing SVG" /></a>
+
 ### BUY ME A COFFEE 🥹
 <a href="https://www.buymeacoffee.com/djpreet3215" target="_blank"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVsNTF6aHVpN3hqbmxzMHJ6dmozMDlob3h5N3EwYnRiMjNuNHU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Buy Me A Coffee" style="height: 8 !important;width: 8 !important;" ></a>
 
