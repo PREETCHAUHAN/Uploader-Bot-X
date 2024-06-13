@@ -17,23 +17,7 @@
 #
 
 ### BUY ME A COFFEE 🥹
-<a href="https://www.buymeacoffee.com/lisakorean" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-
-## How To Deploy Heroku
-
-<b><details><summary>Tap On Me For Deploy</summary>
-
-#
-
-  ㅤ ㅤ   ㅤ <a href="https://github.com/PREETCHAUHAN/Uploader-Bot-X/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
-
-#
-  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPREETCHAUHAN%2F/Uploader-Bot-X"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
-
-</b>
-</details>
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### How To Create YouTube Video
 
