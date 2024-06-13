@@ -65,8 +65,6 @@
 
 </b>
 </details>
-#
-
 
 ### Bot Commands 
 ```
