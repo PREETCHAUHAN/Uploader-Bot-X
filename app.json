@@ -13,7 +13,7 @@
     "remote",
     "uploader"
   ],
-  "website": "https://t.me/UploadLinkToFileBot",
+  "website": "https://t.me/UploaderX1Bot",
   "repository": "https://github.com/PREETCHAUHAN/Uploader-Bot-X",
   "env": {
     "WEBHOOK": {
@@ -46,7 +46,7 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "1834908260"
+      "value": "1852829593"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
