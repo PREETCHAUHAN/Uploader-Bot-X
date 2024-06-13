@@ -8,11 +8,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/LISA-KOREA/UPLOADER-BOT-V4?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/stargazers)
 
 #
-<a href="https://github.com/LISA-KOREA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=063EFF&random=false&width=750&lines=WELCOME+TO+URL+UPLOADER+BOT+V4+%F0%9F%9A%80;MADE+BY+%40NT_BOT_CHANNEL+;FOLLOW+ME+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://github.com/PREETCHAUHAN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=063EFF&random=false&width=750&lines=WELCOME+TO+URL+UPLOADER+BOT+V4+%F0%9F%9A%80;MADE+BY+%40NT_BOT_CHANNEL+;FOLLOW+ME+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 #
 
 #
-<a href="https://github.com/LISA-KOREA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=FF0000&random=false&width=500&height=55&lines=GIVE+ME+A+STAR" alt="Typing SVG" /></a>
+<a href="https://github.com/PREETCHAUHAN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=47000&size=40&pause=1000&color=FF0000&random=false&width=500&height=55&lines=GIVE+ME+A+STAR" alt="Typing SVG" /></a>
 
 #
 
@@ -27,37 +27,10 @@
 
 #
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V4/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://github.com/PREETCHAUHAN/Uploader-Bot-X/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 #
-  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLISA-KOREA%2FUPLOADER-BOT-V4"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
-
-</b>
-</details>
-
-### How To Deploy Render
-
-<b><details><summary>Tap On Me For Deploy</summary>
-
-- Runtime : `Python 3`
-- Build Command : `pip install -r requirements.txt`
-- Start Command : `gunicorn app:app & python3 bot.py`
-- Go to https://uptimerobot.com/ and add a monitor to keep your bot alive
-- Use these settings when adding a monitor
-
-![](https://graph.org/file/899036d51bcd4defaa34e.jpg)
-
-
-
-</b>
-</details>
-
-### DigitalOcean
-<b><details><summary>Tap On Me For Deploy</summary>
-
-- Run Command : `gunicorn app:app & python3 bot.py`
-- Worker : `python3 bot.py`
-
+  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPREETCHAUHAN%2F/Uploader-Bot-X"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 </b>
 </details>
